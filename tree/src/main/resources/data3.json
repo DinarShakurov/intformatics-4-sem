@@ -1,0 +1,11 @@
+{
+  "name" : "russia",
+  "type" : "country",
+  "priority" : 10,
+  "children" : [ {
+    "name" : "spb",
+    "type" : "city",
+    "priority" : 5,
+    "children" : [ ]
+  } ]
+}
